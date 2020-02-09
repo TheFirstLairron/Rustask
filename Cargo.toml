@@ -1,5 +1,5 @@
 [package]
-name = "Rustask"
+name = "rustask"
 version = "0.1.0"
 authors = ["Zachary Allnutt <zrwall@hotmail.com>"]
 edition = "2018"
